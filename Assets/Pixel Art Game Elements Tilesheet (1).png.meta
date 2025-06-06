@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 3fe2560c48235cc4ea00fb0c9fc46f72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4319282707676650219
+    second: Pixel Art Game Elements Tilesheet (1)_0
+  - first:
+      213: -578328059242608247
+    second: Pixel Art Game Elements Tilesheet (1)_1
+  - first:
+      213: 5284479638491181489
+    second: Pixel Art Game Elements Tilesheet (1)_2
+  - first:
+      213: 8141497424318259559
+    second: Pixel Art Game Elements Tilesheet (1)_3
+  - first:
+      213: -9160025845126527834
+    second: Pixel Art Game Elements Tilesheet (1)_4
+  - first:
+      213: 2768255296253464874
+    second: Pixel Art Game Elements Tilesheet (1)_5
+  - first:
+      213: 4293107940821427288
+    second: Pixel Art Game Elements Tilesheet (1)_6
+  - first:
+      213: -6123109606540128108
+    second: Pixel Art Game Elements Tilesheet (1)_7
+  - first:
+      213: -2360823304380539469
+    second: Pixel Art Game Elements Tilesheet (1)_8
+  - first:
+      213: 3586643335536315203
+    second: Pixel Art Game Elements Tilesheet (1)_9
+  - first:
+      213: -578090365502700955
+    second: Pixel Art Game Elements Tilesheet (1)_10
+  - first:
+      213: 2420264032516892039
+    second: Pixel Art Game Elements Tilesheet (1)_11
+  - first:
+      213: 7871367253412557725
+    second: Pixel Art Game Elements Tilesheet (1)_12
+  - first:
+      213: -163027818258170247
+    second: Pixel Art Game Elements Tilesheet (1)_13
+  - first:
+      213: -5276546915722937425
+    second: Pixel Art Game Elements Tilesheet (1)_14
+  - first:
+      213: -2385713448333587077
+    second: Pixel Art Game Elements Tilesheet (1)_15
+  - first:
+      213: -1274928506273870089
+    second: Pixel Art Game Elements Tilesheet (1)_16
+  - first:
+      213: -6551070141777024620
+    second: Pixel Art Game Elements Tilesheet (1)_17
+  - first:
+      213: -6420270714124719186
+    second: Pixel Art Game Elements Tilesheet (1)_18
+  - first:
+      213: 3929778410119578966
+    second: Pixel Art Game Elements Tilesheet (1)_19
+  - first:
+      213: -6993131766886665208
+    second: Pixel Art Game Elements Tilesheet (1)_20
+  - first:
+      213: -2903656696408334815
+    second: Pixel Art Game Elements Tilesheet (1)_21
+  - first:
+      213: 6719261424167369274
+    second: Pixel Art Game Elements Tilesheet (1)_22
+  - first:
+      213: -8291621036521937545
+    second: Pixel Art Game Elements Tilesheet (1)_23
+  - first:
+      213: -7624553713873765821
+    second: Pixel Art Game Elements Tilesheet (1)_24
+  - first:
+      213: 7535263933648510778
+    second: Pixel Art Game Elements Tilesheet (1)_25
+  - first:
+      213: 8887037104164463930
+    second: Pixel Art Game Elements Tilesheet (1)_26
+  - first:
+      213: 7730915030447975525
+    second: Pixel Art Game Elements Tilesheet (1)_27
+  - first:
+      213: 5631282867786062809
+    second: Pixel Art Game Elements Tilesheet (1)_28
+  - first:
+      213: 6501831835970142827
+    second: Pixel Art Game Elements Tilesheet (1)_29
+  - first:
+      213: 3377358955330554959
+    second: Pixel Art Game Elements Tilesheet (1)_30
+  - first:
+      213: 5863482553054862358
+    second: Pixel Art Game Elements Tilesheet (1)_31
+  - first:
+      213: 1016901779644316079
+    second: Pixel Art Game Elements Tilesheet (1)_32
+  - first:
+      213: 2022552019053956763
+    second: Pixel Art Game Elements Tilesheet (1)_33
+  - first:
+      213: -7429507027678929523
+    second: Pixel Art Game Elements Tilesheet (1)_34
+  - first:
+      213: 2139963769435785058
+    second: Pixel Art Game Elements Tilesheet (1)_35
+  - first:
+      213: 953745105808100641
+    second: Pixel Art Game Elements Tilesheet (1)_36
+  - first:
+      213: 8557470154352479710
+    second: Pixel Art Game Elements Tilesheet (1)_37
+  - first:
+      213: 6567932839206228681
+    second: Pixel Art Game Elements Tilesheet (1)_38
+  - first:
+      213: 1931997078603020871
+    second: Pixel Art Game Elements Tilesheet (1)_39
+  - first:
+      213: -2765843219906146874
+    second: Pixel Art Game Elements Tilesheet (1)_40
+  - first:
+      213: 6107890368329991469
+    second: Pixel Art Game Elements Tilesheet (1)_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 856
+        width: 125
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beadd83fcbc21fb30800000000000000
+      internalID: 4319282707676650219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 856
+        width: 132
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9890439b1bd59f7f0800000000000000
+      internalID: -578328059242608247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 856
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b13d0b9b3e365940800000000000000
+      internalID: 5284479638491181489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 857
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7616f3c95c86cf070800000000000000
+      internalID: 8141497424318259559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 855
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a406d7960d01e080800000000000000
+      internalID: -9160025845126527834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 855
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2118cc6681da6620800000000000000
+      internalID: 2768255296253464874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 704
+        width: 125
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e1132dee249b30800000000000000
+      internalID: 4293107940821427288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 696
+        width: 135
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d4652148560ba0800000000000000
+      internalID: -6123109606540128108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 696
+        width: 151
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd1fec76bbac3fd0800000000000000
+      internalID: -2360823304380539469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 698
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b0aae5c1156c130800000000000000
+      internalID: 3586643335536315203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 704
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562c22c10e53af7f0800000000000000
+      internalID: -578090365502700955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 704
+        width: 142
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785e2d08051869120800000000000000
+      internalID: 2420264032516892039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 554
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933c4c00d6bc3d60800000000000000
+      internalID: 7871367253412557725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 569
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ef634201fccbdf0800000000000000
+      internalID: -163027818258170247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 557
+        width: 141
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb6a75980f5c6b0800000000000000
+      internalID: -5276546915722937425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 571
+        width: 141
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d4430424e34eed0800000000000000
+      internalID: -2385713448333587077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 571
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fec685474b8e4ee0800000000000000
+      internalID: -1274928506273870089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 572
+        width: 138
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49966b44a6ce515a0800000000000000
+      internalID: -6551070141777024620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 404
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaba0c23dcd96e6a0800000000000000
+      internalID: -6420270714124719186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 410
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6554d25a4a0698630800000000000000
+      internalID: 3929778410119578966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 401
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804783f85b763fe90800000000000000
+      internalID: -6993131766886665208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 419
+        width: 140
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e95ec6e9324b7d0800000000000000
+      internalID: -2903656696408334815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 420
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a3b744aac9f3d50800000000000000
+      internalID: 6719261424167369274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 418
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77524f1299e3eec80800000000000000
+      internalID: -8291621036521937545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a3ba93bc4203690800000000000000
+      internalID: -7624553713873765821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 258
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f9ee5cf92a29860800000000000000
+      internalID: 7535263933648510778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 258
+        width: 147
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3560732929155b70800000000000000
+      internalID: 8887037104164463930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 272
+        width: 141
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c6492924ab94b60800000000000000
+      internalID: 7730915030447975525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 272
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9124bee5562e40800000000000000
+      internalID: 5631282867786062809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 271
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62835c4b952b3a50800000000000000
+      internalID: 6501831835970142827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c467b631acede20800000000000000
+      internalID: 3377358955330554959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 104
+        width: 140
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c1981e0564f5150800000000000000
+      internalID: 5863482553054862358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 104
+        width: 142
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97923e7c2cc1e00800000000000000
+      internalID: 1016901779644316079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 127
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ec57b685c811c10800000000000000
+      internalID: 2022552019053956763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 126
+        width: 133
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ddde6b8b615e890800000000000000
+      internalID: -7429507027678929523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 122
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2670d65d5bda2bd10800000000000000
+      internalID: 2139963769435785058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 125
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d85fdde126c3d00800000000000000
+      internalID: 953745105808100641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 134
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddcf2614cd32c670800000000000000
+      internalID: 8557470154352479710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2928d6e1cf52b50800000000000000
+      internalID: 6567932839206228681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_39
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 133
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ab9395b15dfca10800000000000000
+      internalID: 1931997078603020871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_40
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 141
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd421dde30cd99d0800000000000000
+      internalID: -2765843219906146874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Game Elements Tilesheet (1)_41
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 136
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25c653dde593c450800000000000000
+      internalID: 6107890368329991469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel Art Game Elements Tilesheet (1)_0: 4319282707676650219
+      Pixel Art Game Elements Tilesheet (1)_1: -578328059242608247
+      Pixel Art Game Elements Tilesheet (1)_10: -578090365502700955
+      Pixel Art Game Elements Tilesheet (1)_11: 2420264032516892039
+      Pixel Art Game Elements Tilesheet (1)_12: 7871367253412557725
+      Pixel Art Game Elements Tilesheet (1)_13: -163027818258170247
+      Pixel Art Game Elements Tilesheet (1)_14: -5276546915722937425
+      Pixel Art Game Elements Tilesheet (1)_15: -2385713448333587077
+      Pixel Art Game Elements Tilesheet (1)_16: -1274928506273870089
+      Pixel Art Game Elements Tilesheet (1)_17: -6551070141777024620
+      Pixel Art Game Elements Tilesheet (1)_18: -6420270714124719186
+      Pixel Art Game Elements Tilesheet (1)_19: 3929778410119578966
+      Pixel Art Game Elements Tilesheet (1)_2: 5284479638491181489
+      Pixel Art Game Elements Tilesheet (1)_20: -6993131766886665208
+      Pixel Art Game Elements Tilesheet (1)_21: -2903656696408334815
+      Pixel Art Game Elements Tilesheet (1)_22: 6719261424167369274
+      Pixel Art Game Elements Tilesheet (1)_23: -8291621036521937545
+      Pixel Art Game Elements Tilesheet (1)_24: -7624553713873765821
+      Pixel Art Game Elements Tilesheet (1)_25: 7535263933648510778
+      Pixel Art Game Elements Tilesheet (1)_26: 8887037104164463930
+      Pixel Art Game Elements Tilesheet (1)_27: 7730915030447975525
+      Pixel Art Game Elements Tilesheet (1)_28: 5631282867786062809
+      Pixel Art Game Elements Tilesheet (1)_29: 6501831835970142827
+      Pixel Art Game Elements Tilesheet (1)_3: 8141497424318259559
+      Pixel Art Game Elements Tilesheet (1)_30: 3377358955330554959
+      Pixel Art Game Elements Tilesheet (1)_31: 5863482553054862358
+      Pixel Art Game Elements Tilesheet (1)_32: 1016901779644316079
+      Pixel Art Game Elements Tilesheet (1)_33: 2022552019053956763
+      Pixel Art Game Elements Tilesheet (1)_34: -7429507027678929523
+      Pixel Art Game Elements Tilesheet (1)_35: 2139963769435785058
+      Pixel Art Game Elements Tilesheet (1)_36: 953745105808100641
+      Pixel Art Game Elements Tilesheet (1)_37: 8557470154352479710
+      Pixel Art Game Elements Tilesheet (1)_38: 6567932839206228681
+      Pixel Art Game Elements Tilesheet (1)_39: 1931997078603020871
+      Pixel Art Game Elements Tilesheet (1)_4: -9160025845126527834
+      Pixel Art Game Elements Tilesheet (1)_40: -2765843219906146874
+      Pixel Art Game Elements Tilesheet (1)_41: 6107890368329991469
+      Pixel Art Game Elements Tilesheet (1)_5: 2768255296253464874
+      Pixel Art Game Elements Tilesheet (1)_6: 4293107940821427288
+      Pixel Art Game Elements Tilesheet (1)_7: -6123109606540128108
+      Pixel Art Game Elements Tilesheet (1)_8: -2360823304380539469
+      Pixel Art Game Elements Tilesheet (1)_9: 3586643335536315203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
