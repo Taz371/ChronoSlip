@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovementScript : MonoBehaviour
 {                                                                                                                                                                                                                                                                                                                      
     public float gravityStrength = 9.81f;
 
@@ -14,13 +14,14 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
 
-    private bool isMoving;
+    public bool isMoving;
+
+    public float playerHealth = 100;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
 
-        Debug.Log(normalGravity);
         SetGravityForOthers(normalGravity);
     }
 
@@ -47,7 +48,6 @@ public class PlayerMovement : MonoBehaviour
             isMoving = false;
         }
 
-        //Debug.Log(movement);
         float currentSpeed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : walkSpeed;
 
         // Set horizontal velocity only
@@ -67,6 +67,11 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             SetGravityForOthers(normalGravity);
+        }
+
+        if (playerHealth <= 0)
+        {
+            Destroy(this.gameObject);
         }
     }
 

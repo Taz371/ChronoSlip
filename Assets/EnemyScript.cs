@@ -15,11 +15,17 @@ public class EnemyScript : MonoBehaviour
     public float direction = -4;
     private Vector3 rotationConstant = new Vector3(0, 180, 0);
 
+    private PlayerMovementScript playerMovement;
+    public GameManagerScript gameManager;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         transform.eulerAngles = new Vector3(0, 0, 0);
+
+        playerMovement = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovementScript>();
+        gameManager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManagerScript>();
     }
 
     // Update is called once per frame
@@ -28,9 +34,17 @@ public class EnemyScript : MonoBehaviour
         // Check if grounded
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-        if (isGrounded)
+        if (isGrounded && playerMovement.isMoving)
         {
             rb.linearVelocity = new Vector2(direction, rb.linearVelocity.y);
+        }
+        else if (playerMovement.isMoving && !isGrounded)
+        {
+            rb.linearVelocity = new Vector2(direction, rb.linearVelocity.y);
+        }
+        else
+        {
+            rb.linearVelocity = new Vector2(0,0);
         }
     }
 
@@ -38,13 +52,12 @@ public class EnemyScript : MonoBehaviour
     {
         if (other == playerCollider)
         {
-            Debug.Log("Player entered the trigger!");
+            gameManager.TakeDamage(10f);
         }
         else
         {
             transform.eulerAngles += rotationConstant;
             direction = direction * -1;
-            Debug.Log("Wall entered the trigger!");
         }
     }
 
