@@ -17,6 +17,9 @@ public class PlayerMovementScript : MonoBehaviour
     public bool isMoving;
 
     public float playerHealth = 100;
+    public float movement = 0;
+
+    public GameObject bulletPrefab;
 
     private void Awake()
     {
@@ -27,7 +30,12 @@ public class PlayerMovementScript : MonoBehaviour
 
     private void Update()
     {
-        float movement = Input.GetAxisRaw("Horizontal");
+        if (Input.GetMouseButtonDown(0))
+        {
+            GameObject bullet = Instantiate(bulletPrefab, transform.position, Quaternion.identity);
+        }
+
+        movement = Input.GetAxisRaw("Horizontal");
 
         if (movement == -1)
         {

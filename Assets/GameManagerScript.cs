@@ -6,6 +6,8 @@ public class GameManagerScript : MonoBehaviour
     private PlayerMovementScript playerMovement;
     public Image healthBar;
 
+    public Canvas canvas;
+     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -15,7 +17,10 @@ public class GameManagerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (canvas!= null)
+        {
+            canvas.transform.rotation = Quaternion.Euler(0, 0, 0);
+        }
     }
 
     public void TakeDamage(float damage)

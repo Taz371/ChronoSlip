@@ -54,6 +54,10 @@ public class EnemyScript : MonoBehaviour
         {
             gameManager.TakeDamage(10f);
         }
+        else if (other.CompareTag("Bullet"))
+        {
+            Destroy(this.gameObject);
+        }
         else
         {
             transform.eulerAngles += rotationConstant;

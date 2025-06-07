@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4f8fcdc09c059464084bcd553e6fa3b3
+guid: 8ef0726f339f88b48bf1fc565e4a7dc9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3761010550668385946
-    second: whitep_0
+      213: -5048989686570728238
+    second: ChatGPT Image Jun 7, 2025, 06_59_28 PM_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: whitep_0
+      name: ChatGPT Image Jun 7, 2025, 06_59_28 PM_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 626
-        height: 417
+        width: 1536
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a9ed51d4b2bc13430800000000000000
-      internalID: 3761010550668385946
+      spriteID: 2d4475971a26ee9b0800000000000000
+      internalID: -5048989686570728238
       vertices: []
       indices: 
       edges: []
@@ -134,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ChatGPT Image Jun 7, 2025, 06_59_28 PM_0: -5048989686570728238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
