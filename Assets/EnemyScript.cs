@@ -10,7 +10,6 @@ public class EnemyScript : MonoBehaviour
     public LayerMask groundLayer;
 
     private bool isGrounded;
-    public Collider2D playerCollider;
 
     public float direction = -4;
     private Vector3 rotationConstant = new Vector3(0, 180, 0);
@@ -50,7 +49,7 @@ public class EnemyScript : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other == playerCollider)
+        if (other.CompareTag("Player"))
         {
             gameManager.TakeDamage(10f);
         }

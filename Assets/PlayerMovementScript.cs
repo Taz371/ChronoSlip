@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovementScript : MonoBehaviour
@@ -20,38 +22,46 @@ public class PlayerMovementScript : MonoBehaviour
     public float movement = 0;
 
     public GameObject bulletPrefab;
+    public SpriteRenderer spriteRenderer;
+
+    public int bulletAmount = 5;
+    public TMP_Text bulletText;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
 
         SetGravityForOthers(normalGravity);
+
+        bulletText.text = $"Bullets: {bulletAmount}";
     }
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && bulletAmount >= 1)
         {
             GameObject bullet = Instantiate(bulletPrefab, transform.position, Quaternion.identity);
+            bulletAmount--;
+            bulletText.text = $"Bullets: {bulletAmount}";
         }
 
         movement = Input.GetAxisRaw("Horizontal");
 
         if (movement == -1)
         {
-            transform.eulerAngles = new Vector3(0, 0, 0);
+            spriteRenderer.flipX = false;
             GetComponent<Animator>().Play("Run");
             isMoving = true;
 }
         else if (movement == 1)
         {
-            transform.eulerAngles = new Vector3(0, 180, 0);
+            spriteRenderer.flipX = true;
             GetComponent<Animator>().Play("Run");
             isMoving = true;
         }
         else
         {
-            transform.eulerAngles = new Vector3(0, 0, 0);
             GetComponent<Animator>().Play("Idle");
             isMoving = false;
         }
