@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovementScript : MonoBehaviour
@@ -89,7 +90,7 @@ public class PlayerMovementScript : MonoBehaviour
 
         if (playerHealth <= 0)
         {
-            Destroy(this.gameObject);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 
